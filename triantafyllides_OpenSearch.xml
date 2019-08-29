@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription  xmlns="http://a9.com/-/spec/opensearch/1.1/"
+                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
+  <!-- COMMENTS HERE... -->
+  <ShortName>Λεξικό Τριανταφυλλίδη</ShortName>
+  <Description>Λεξικό της κοινής νεοελληνικής (Τριανταφυλλίδη) στο Κέντρο Ελληνικής Γλώσσας</Description>
+  <Tags>ελληνικό λεξικό κοινής νεοελληνικής νεοελληνικό τριανταφυλλίδη τριανταφυλλίδης greek dictionary lookup triantafyllides triantafillidis</Tags>
+  <Image width="16" height="16">data:image/x-icon;base64,AAABAAIAEBAQAAEABAAoAQAAJgAAABAQAAABAAgAaAUAAE4BAAAoAAAAEAAAACAAAAABAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/wD/AIAAgAD/AAAAgAAAAP//AACAgAAAAP8AAACAAAAA//8AAICAAAAA/wAAAIAA////AMDAwACAgIAAAAAAAP////////////7u7/7u7////+7//+7////+7u/+7u/////u///u/////+7//+7/////7v//7v/////u///u/////+7//+7/////7v//7v/////u/u/u/////u7t3u7v//////7v//////////////////////////////////////8AAOGHAADzzwAAAAAAAJJJAACSSQAAkkkAAJJJAACSSQAAkkkAAJJJAACAAQAAnnkAAAAAAAD//wAA//8AACgAAAAQAAAAIAAAAAEACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8AzP//AJn//wBm//8AM///AAD//wD/zP8AzMz/AJnM/wBmzP8AM8z/AADM/wD/mf8AzJn/AJmZ/wBmmf8AM5n/AACZ/wD/Zv8AzGb/AJlm/wBmZv8AM2b/AABm/wD/M/8AzDP/AJkz/wBmM/8AMzP/AAAz/wD/AP8AzAD/AJkA/wBmAP8AMwD/AAAA/wD//8wAzP/MAJn/zABm/8wAM//MAAD/zAD/zMwAzMzMAJnMzABmzMwAM8zMAADMzAD/mcwAzJnMAJmZzABmmcwAM5nMAACZzAD/ZswAzGbMAJlmzABmZswAM2bMAABmzAD/M8wAzDPMAJkzzABmM8wAMzPMAAAzzAD/AMwAzADMAJkAzABmAMwAMwDMAAAAzAD//5kAzP+ZAJn/mQBm/5kAM/+ZAAD/mQD/zJkAzMyZAJnMmQBmzJkAM8yZAADMmQD/mZkAzJmZAJmZmQBmmZkAM5mZAACZmQD/ZpkAzGaZAJlmmQBmZpkAM2aZAABmmQD/M5kAzDOZAJkzmQBmM5kAMzOZAAAzmQD/AJkAzACZAJkAmQBmAJkAMwCZAAAAmQD//2YAzP9mAJn/ZgBm/2YAM/9mAAD/ZgD/zGYAzMxmAJnMZgBmzGYAM8xmAADMZgD/mWYAzJlmAJmZZgBmmWYAM5lmAACZZgD/ZmYAzGZmAJlmZgBmZmYAM2ZmAABmZgD/M2YAzDNmAJkzZgBmM2YAMzNmAAAzZgD/AGYAzABmAJkAZgBmAGYAMwBmAAAAZgD//zMAzP8zAJn/MwBm/zMAM/8zAAD/MwD/zDMAzMwzAJnMMwBmzDMAM8wzAADMMwD/mTMAzJkzAJmZMwBmmTMAM5kzAACZMwD/ZjMAzGYzAJlmMwBmZjMAM2YzAABmMwD/MzMAzDMzAJkzMwBmMzMAMzMzAAAzMwD/ADMAzAAzAJkAMwBmADMAMwAzAAAAMwD//wAAzP8AAJn/AABm/wAAM/8AAAD/AAD/zAAAzMwAAJnMAABmzAAAM8wAAADMAAD/mQAAzJkAAJmZAABmmQAAM5kAAACZAAD/ZgAAzGYAAJlmAABmZgAAM2YAAABmAAD/MwAAzDMAAJkzAABmMwAAMzMAAAAzAAD/AAAAzAAAAJkAAABmAAAAMwAAAAAA7gAAAN0AAAC7AAAAqgAAAIgAAAB3AAAAVQAAAEQAAAAiAAAAEQAA7gAAAN0AAAC7AAAAqgAAAIgAAAB3AAAAVQAAAEQAAAAiAAAAEQAA7gAAAN0AAAC7AAAAqgAAAIgAAAB3AAAAVQAAAEQAAAAiAAAAEQAAAO7u7gDd3d0Au7u7AKqqqgCIiIgAd3d3AFVVVQBEREQAIiIiABEREQAAAAAA/////////////////////////1ZWVlb//1ZWVlb/////////Vlb/////Vlb/////rKys+lZW+qys+lZW+qysrP+srP9WVv+srP9WVv+srP//rKz/Vlb/rKz/Vlb/rKz//6ys/1ZW/6ys/1ZW/6ys//+srP9WVv+srP9WVv+srP//rKz/Vlb/rKz/Vlb/rKz//6ys/1ZW/6ys/1ZW/6ys//+srP9WVv/6+v9WVv+srP//rKxWVlZWKytWVlZWrKz//6ys//////r6/////6ys/6ysrKysrKysrKysrKysrKz/////////////////////////////////////////////AADhhwAA888AAAAAAACSSQAAkkkAAJJJAACSSQAAkkkAAJJJAACSSQAAgAEAAJ55AAAAAAAA//8AAP//AAA=</Image>
+  <Url  type="text/html" method="get"
+        template="http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/triantafyllides/search.html?lq={searchTerms}&amp;dq=">
+  </Url>
+  <Contact>dpsd02005@syros.aegean.gr</Contact>
+  <Developer>Ioannis Apostolopoulos</Developer>
+  <Language>el-gr</Language>
+  <Language>*</Language>
+  <OutputEncoding>UTF-8</OutputEncoding>
+  <InputEncoding>UTF-8</InputEncoding>
+</OpenSearchDescription>
